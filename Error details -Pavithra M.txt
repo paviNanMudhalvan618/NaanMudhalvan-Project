@@ -1,0 +1,11 @@
+S.no      pagelink                                      testdate                       testtime               description
+1         https://nscet.org/index.html                   06-12-2024                    09:30:31 am     Unable to click on object 'Object Repository/nscet/Page_N S C E T/div_Explore NSCET_carousel-item caro-slide-_1d3dd6' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/nscet/Page_N S C E T/div_Explore NSCET_carousel-item caro-slide-_1d3dd6'
+
+2       https://marymathacollege.edu.in/               06-12-2024                      10:53:18 am          Unable to click on object 'Object Repository/mary matha/Page_Mary Matha CMI/ul_Link for Online Admission 2024-2025.NEW _397257' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/mary matha/Page_Mary Matha CMI/ul_Link for Online Admission 2024-2025.NEW _397257'
+
+
+3     https://www.tvu.edu.in/                         06-12-2024                        11:00:19 am       Unable to accept alert (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to accept alert
+
+
+4    https://www.tvu.edu.in/                         06-12-2024                          11:06:58 am        Unable to click on object 'Object Repository/home tuv/Page_Thiruvalluvar University - Serkadu, Ve_a1c02d/div_Stand Up Pouches_mm-blocker'
+
